@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="7 Wonders Game">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/7 Wonders Game.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
